@@ -1,0 +1,87 @@
+.popup-box-navbar-login {
+  background: url(../img/popup-navbar1.png) center center/100% 100% no-repeat;
+  height: auto;
+  padding-top: 5px;
+  padding-bottom: 1px;
+}
+.popup-box-navbar-login-title {
+  padding-left: 24px;
+  padding-top: 2px;
+  color: #defbff;
+  font-size: 22px;
+  font-family: selow;
+  font-weight: 500;
+  text-align: center;
+}
+.popup-box-bg-login {
+  background: url(../img/popup-box-bg-login.html) center center/100% 100%
+    no-repeat;
+  width: 100%;
+  height: 255px;
+  margin-top: -10px;
+}
+.popup-box-bg-login-load {
+  background: url(../img/popup-box-bg-login-load.html) center center/100% 100%
+    no-repeat;
+  width: 100%;
+  height: 255px;
+  margin-top: -10px;
+}
+.load-login-img {
+  width: 30%;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+.load-login-gif {
+  width: 15%;
+  height: auto;
+  margin-bottom: 0px;
+}
+.popup-box-footer-login {
+  background-size: 100% 100%;
+  width: 100%;
+  margin-top: -1px;
+  height: 35px;
+}
+.popup-btn-login {
+  width: 28%;
+  border-radius: 2px;
+  height: 35px;
+  padding: 6px 5px 5px;
+  margin: 3px 3px 45px;
+  color: #f2f2f2;
+  font-size: 14px;
+  font-family: selow;
+  border: none;
+  outline: 0;
+  position: relative;
+  display: inline-block;
+}
+.popup-btn-login i {
+  color: #fff;
+  font-size: 20px;
+  margin-top: -3px;
+  float: left;
+}
+.popup-btn-facebook {
+  background: #1778f2;
+  color: #fff;
+}
+.popup-btn-twitter {
+  background: #fff;
+  color: #000;
+}
+.popup-btn-login-link {
+  background: #e3b448;
+  margin-bottom: 3px;
+  color: #000;
+}
+.popup-btn-login-link img {
+  width: 22px;
+  height: 22px;
+  margin-top: -5px;
+  color: #fff;
+  font-size: 20px;
+  float: left;
+}
